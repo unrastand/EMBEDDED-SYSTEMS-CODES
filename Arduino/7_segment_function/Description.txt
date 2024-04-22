@@ -1,0 +1,8 @@
+7 segment display using function that was created to count from 0-9.
+using the order of the 7 segment label A-3
+B-3
+C-4
+D-5
+E-6
+F-6
+G-8

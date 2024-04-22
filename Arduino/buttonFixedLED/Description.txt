@@ -1,0 +1,3 @@
+A simple push button that controls an LED
+when pushed LED comes ON even when releases
+if pushed while LED is OFF, LED goes OFF

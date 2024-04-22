@@ -1,0 +1,1 @@
+Arduino 2 folder has a word and pdf file of description and even the codes singulary attached to each steps
