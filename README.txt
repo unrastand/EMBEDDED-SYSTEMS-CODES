@@ -1,0 +1,2 @@
+Using Arduino Uno, Esp32 Wroom module for real time monitoring of a home Generator
+using sensors such as Ds18b20 waterproof sensor, ACS712 Current sensor, ZMPTIOIB Voltage sensor, waterproof ultra-sonic sensor for fuel and oil level measuring 
